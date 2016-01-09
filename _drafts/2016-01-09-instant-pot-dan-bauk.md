@@ -11,6 +11,8 @@ We got the [Instant Pot](http://www.amazon.com/gp/product/B00FLYWNYQ/ref=as_li_t
 
 One of the first things I wanted to make was a modified version of [Dan Bauk](https://en.wikipedia.org/wiki/List_of_Burmese_dishes#Indian_inspired){:taget="_blank"} that my family makes.  It's similar to an Indian Chicken Biriyani.  While the chicken curry and rice are normally prepared separately and baked afterwards.  It's also normally prepared in giant buffet portions, but this is scaled down to serve 4-6 people.
 
+I've modified the recipe provided by [hip pressure cooking](http://www.hippressurecooking.com/pressure-cooker-chicken-and-rice-one-pot-meal/) but used the burmese spices.
+
 Ingredients
 -----------
 * Marinade
