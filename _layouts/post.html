@@ -11,5 +11,9 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+  categories: 
+  {% for category in page.categories %}
+  	<a href="/{{category}}">{{ category}}</a>
+  {% endfor %}
 
 </article>

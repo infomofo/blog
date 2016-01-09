@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the blog of infomofo.com
-
-I'm running jekyll and hosting on github.
+My blog is generated with jekyll and hosted on github.  I've also added the jekyll-archives plugin.
 
 Find more about it [here](http://blog.thecoderecipe.com/articles/jekyll/2015/11/30/jekyll.html)
