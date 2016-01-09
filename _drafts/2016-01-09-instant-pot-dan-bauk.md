@@ -52,5 +52,5 @@ Steps
 3. Add a tsp of Curry Paste.
 4. Sautee marinated chicken skin for 4 minutes on each side to brown it, initially starting with the skin side up.
 5. Add 3 tsp of tomato paste and 1 cup of water or stock to the Instant Pot.  Close the cooker and cook for 14 minutes at high pressure.
-6. Open the cooker, remove the chicken and cover with foil.  Measure out 3.5 cups of the liquid from the pot and discard or reserve the rest.  Add the soaked rice, the 3.5 cups of liquid, and a pinch of salt.  
+6. Open the cooker, remove the chicken and cover with foil.  Measure out 3.5 cups of the liquid from the pot and discard or reserve the rest.  Add the soaked rice, the 3.5 cups of liquid, and a pinch of salt, the cardamom seeds, cloves, mustard seed and cumin seed.  
 7. Press the "multigrain" button.
