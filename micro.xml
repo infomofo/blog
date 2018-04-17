@@ -1,0 +1,37 @@
+---
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+  <title>InfoMofo Microblog</title>
+  <subtitle>By InfoMofo</subtitle>
+  <link href="https://ttimsmith.com/microblog"/>
+  <link type="application/atom+xml" rel="self"
+    href="https://blog.infomofo.com/micro.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>https://blog.infomofo.com</id>
+  <author>
+    <name>InfoMofo</name>
+    <uri>https://infomofo.com</uri>
+    <email>will@infomofo.com</email>
+  </author>
+  {% for post in site.microblog reversed %}
+
+  <entry>
+    <id>https://blog.infomofo.com{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://blog.infomofo.com{{ post.url }}"/>
+    <title></title>
+    <published>{{ post.date | date_to_xmlschema }}</published>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>InfoMofo</name>
+      <uri>http://infomofo.com</uri>
+    </author>
+    <content type="html">
+      <![CDATA[
+        {{ post.content }}
+      ]]>
+    </content>
+  </entry>
+  {% endfor %}
+</feed>
