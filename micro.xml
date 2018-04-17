@@ -2,10 +2,9 @@
 ---
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <link rel="hub" href="https://pubsubhubbub.appspot.com"/>
   <title>InfoMofo Microblog</title>
   <subtitle>By InfoMofo</subtitle>
-  <link href="https://ttimsmith.com/microblog"/>
+  <link href="https://infomofo.com/micro"/>
   <link type="application/atom+xml" rel="self"
     href="https://blog.infomofo.com/micro.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
@@ -15,7 +14,7 @@
     <uri>https://infomofo.com</uri>
     <email>will@infomofo.com</email>
   </author>
-  {% for post in site.microblog reversed %}
+  {% for post in site.micro reversed %}
 
   <entry>
     <id>https://blog.infomofo.com{{ post.id }}</id>
