@@ -1,5 +1,5 @@
 ---
-layout: microblog
+layout: micro
 date: %CURRENT_DATE%
 title: %POST_TITLE%
 ---
