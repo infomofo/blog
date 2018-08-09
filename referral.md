@@ -27,6 +27,8 @@ Use these cheat codes at life to get discounts on the services I use and recomme
 * **[Project Fi](https://g.co/fi/r/36F12K)** - Use my referral code `36F12K` when
   signing up to earn $20 bucks on signup.
 * **[Workflowy](https://workflowy.com/invite/38af6eab.emlx)** - Use my referral code `38af6eab.emlx` to get 250 free worklowy items.
+* **[Google G Suite for Business](https://gsuite.google.com/landing/partners/referral/trial.html?utm_source=sign-up&utm_medium=referralbutton1&utm_campaign=apps-referral-program&utm_content=79KT7CMH99H9AHY)** - Use my referral code `79KT7CMH99H9AHY` to get 20% off your first year using the G Suite Business plan- you can get one discount per domain.
+   * **[Google G Suite (Basic)](https://gsuite.google.com/landing/partners/referral/trial.html?utm_source=sign-up&utm_medium=referralbutton1&utm_campaign=apps-referral-program&utm_content=79LVKTFU7Q4V9JT)** - `79LVKTFU7Q4V9JT` - This is the alternate link and code specifically for G Suite Basic
 
 ## Food
 
