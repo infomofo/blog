@@ -16,7 +16,8 @@ github_username:  infomofo
 
 # Build settings
 markdown: kramdown
-micro:
-  output: true
-  layout: post
-  permalink: /micro/:title
+collections:
+  micro:
+    output: true
+    layout: post
+    permalink: /micro/:title
