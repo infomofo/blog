@@ -29,12 +29,8 @@ Use these cheat codes at life to get discounts on the services I use and recomme
 * **[Workflowy](https://workflowy.com/invite/38af6eab.emlx)** - Use my referral code `38af6eab.emlx` to get 250 free worklowy items.
 * **[Google G Suite for Business](https://gsuite.google.com/landing/partners/referral/trial.html?utm_source=sign-up&utm_medium=referralbutton1&utm_campaign=apps-referral-program&utm_content=79KT7CMH99H9AHY)** - Use my referral code `79KT7CMH99H9AHY` to get 20% off your first year using the G Suite Business plan- you can get one discount per domain.
    * **[Google G Suite (Basic)](https://gsuite.google.com/landing/partners/referral/trial.html?utm_source=sign-up&utm_medium=referralbutton1&utm_campaign=apps-referral-program&utm_content=79LVKTFU7Q4V9JT)** - `79LVKTFU7Q4V9JT` - This is the alternate link and code specifically for G Suite Basic
-   * **[Paperspace](https://www.paperspace.com/&R=M0T7SIT) - Use my referral code `M0T7SIT` to get 10 dollars of
-   * credit towards a cloud gaming machine.
+* **[Paperspace](https://www.paperspace.com/&R=M0T7SIT) - Use my referral code `M0T7SIT` to get 10 dollars of credit towards a cloud gaming machine.
 
-## Food
-
-* **[Caviar](https://www.trycaviar.com/r/dsek9q)** - Use my referral code `dsek9q` to get a discount on your first order.
 
 ## Finance
 
