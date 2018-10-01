@@ -11,7 +11,6 @@ also: chase
 Use these cheat codes at life to get discounts on the services I use and recommend, and I get credit too!
 
 ## Transportation
-
 * **[Juno](https://join.gojuno.com/b7ZpRGfxIN)** - Use my referral code
   `b7ZpRGfxIN` and get 30% off all rides for two weeks.
 * **[Via](https://ridewithvia.com/?pid=User_invite&c=email)** - Use my referral code `will7x5` to get $10 free when you take your first ride.
@@ -23,7 +22,6 @@ Use these cheat codes at life to get discounts on the services I use and recomme
 * **[Airbnb](https://abnb.me/e/oMY9bsqCIN)** - Use my referral code `oMY9bsqCIN` to get $40 off your first stay.
 
 ## Utilities
-
 * **[Project Fi](https://g.co/fi/r/36F12K)** - Use my referral code `36F12K` when
   signing up to earn $20 bucks on signup.
 * **[Workflowy](https://workflowy.com/invite/38af6eab.emlx)** - Use my referral code `38af6eab.emlx` to get 250 free worklowy items.
@@ -33,7 +31,6 @@ Use these cheat codes at life to get discounts on the services I use and recomme
 
 
 ## Finance
-
 * **[Robinhood](https://share.robinhood.com/willc199)** - Use my referral code
   `willc199` to get a free mystery stock when you sign up.
 * **[Personal Capital](http://share.personalcapital.com/x/kniYxe)** - Use my referral code
