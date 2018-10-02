@@ -11,7 +11,7 @@ email: blog@infomofo.com
 description: the official blog of infomofo
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.infomofo.com" # the base hostname & protocol for your site
-twitter_username: infomofo 
+twitter_username: infomofo
 github_username:  infomofo
 
 # Build settings
